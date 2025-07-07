@@ -1316,7 +1316,7 @@ a ./PERFORMANCE/weblogic/create-work-manager.properties 2 blocks.
 a ./PERFORMANCE/weblogic/create-work-manager.py 10 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.bat 1 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.sh 1 blocks.
-a ./backups_cobissrv4_CTS_1 (excluded)
+a ./backups_cobissrv2_CTS_1 (excluded)
 a ./contents.yml 2 blocks.
 a ./cts-operations.yml 4 blocks.
 a ./excluirbackups.txt 1 blocks.
@@ -1366,4 +1366,4 @@ a ./temp (excluded)
 a ./versionManager.txt 1 blocks.
 a ./versionPack.txt 1 blocks.
 Comprimiendo tar
-gzip: /cobishome/backups_cobissrv4_CTS_1//cobishome_cobissrv4_.tar.gz already exists; do you wish to overwrite (y or n)? 
+gzip: /cobishome/backups_cobissrv2_CTS_1//cobishome_cobissrv4_.tar.gz already exists; do you wish to overwrite (y or n)? 

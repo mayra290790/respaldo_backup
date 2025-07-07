@@ -3,8 +3,8 @@
 localhost=$(hostname)
 fecha=$(date +%y-%m-%d)
 
-BACKUP_COBISAPP="/cobishome/backups_cobissrv4_CTS_1/"
-LOGS_COBISAPP="/cobishome/backups_cobissrv4_CTS_1/cobisapp_${localhost}_backup.log"
+BACKUP_COBISAPP="/cobishome/backups_cobissrv2_CTS_1/"
+LOGS_COBISAPP="/cobishome/backups_cobissrv2_CTS_1/cobisapp_${localhost}_backup.log"
 
 # Ruta de la carpeta cobisapp
 COBISAPP_PATH="/cobisapp/"

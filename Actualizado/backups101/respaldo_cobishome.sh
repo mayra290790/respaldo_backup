@@ -3,13 +3,12 @@
 localhost=$(hostname)
 fecha=$(date +%y-%m-%d)
 
-BACKUP_COBISHOME="/cobishome/backups_cobissrv4_CTS_1/"
-BACKUP_COBISHOME2="/cobishomeINT/backups_cobissrv4_CTS_2/"
-LOGS_COBISHOME="/cobishome/backups_cobissrv4_CTS_1/cobishome_${localhost}_backup.log"
-LOGS_COBISHOME2="/cobishomeINT/backups_cobissrv4_CTS_2/cobishomeINT_${localhost}_backup.log"
+BACKUP_COBISHOME="/cobishome/backups_cobissrv2_CTS_1/"
+LOGS_COBISHOME="/cobishome/backups_cobissrv2_CTS_1/cobishome_${localhost}_backup.log"
+
+
 # Ruta de la carpeta cobishome
 COBISHOME_PATH="/cobishome/"
-COBISHOME_PATH2="/cobishomeINT/"
 
 # se crea directorio que no existe
 #mkdir -p "$BACKUP_COBISHOME"
@@ -27,12 +26,8 @@ echo "Generando tar"
 cd $COBISHOME_PATH;
 tar -cvf $BACKUP_COBISHOME/cobishome_"$localhost"_$fecha.tar -X excluirbackups.txt . 
 echo "Comprimiendo tar"
-gzip $BACKUP_COBISHOME/cobishome_"$localhost"_$fecha.tar
-echo "Generando tar de /cobishomeINT"
-cd $COBISHOME_PATH2;
-tar -cvf $BACKUP_COBISHOME2/cobishomeINT_"$localhost"_$fecha.tar -X excluirbackups.txt . 
-echo "Comprimiendo tar"
-gzip $BACKUP_COBISHOME2/cobishomeINT_"$localhost"_$fecha.tar
+gzip -9 $BACKUP_COBISHOME/cobishome_"$localhost"_$fecha.tar
+echo "Generando tar de /cobishomeT"
 
 # Verificacion del backup
 if [ $? -eq 0 ]; then

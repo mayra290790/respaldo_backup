@@ -7443,7 +7443,7 @@ a ./DeployAppJythonAD/bin/instaladorADv6.py 22 blocks.
 a ./DeployAppJythonAD/bin/vssver2.scc 1 blocks.
 a ./lost+found
 Comprimiendo tar
-gzip: /cobishome/backups_cobissrv4_CTS_1//cobisapp_cobissrv4_25-07-04.tar.gz already exists; do you wish to overwrite (y or n)? Ejecutando respaldo_cobisapp.sh...
+gzip: /cobishome/backups_cobissrv2_CTS_1//cobisapp_cobissrv4_25-07-04.tar.gz already exists; do you wish to overwrite (y or n)? Ejecutando respaldo_cobisapp.sh...
 Generando tar cobisapp
 a .
 a ./CIS
@@ -11004,7 +11004,7 @@ a ./DeployAppJythonAD/bin/instaladorADv6.py 22 blocks.
 a ./DeployAppJythonAD/bin/vssver2.scc 1 blocks.
 a ./lost+found
 Comprimiendo tar
-gzip: /cobishome/backups_cobissrv4_CTS_1//cobisapp_cobissrv4_25-07-04.tar.gz already exists; do you wish to overwrite (y or n)? 	not overwritten
+gzip: /cobishome/backups_cobissrv2_CTS_1//cobisapp_cobissrv4_25-07-04.tar.gz already exists; do you wish to overwrite (y or n)? 	not overwritten
 respaldo_cobisapp.sh se ejecutó con éxito.
 ----------------------------------------
 Ejecutando backup_respaldo_profile.sh...
@@ -12336,7 +12336,7 @@ a ./PERFORMANCE/weblogic/create-work-manager.properties 2 blocks.
 a ./PERFORMANCE/weblogic/create-work-manager.py 10 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.bat 1 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.sh 1 blocks.
-a ./backups_cobissrv4_CTS_1 (excluded)
+a ./backups_cobissrv2_CTS_1 (excluded)
 a ./contents.yml 2 blocks.
 a ./cts-operations.yml 4 blocks.
 a ./excluirbackups.txt 1 blocks.
@@ -12386,8 +12386,8 @@ a ./temp (excluded)
 a ./versionManager.txt 1 blocks.
 a ./versionPack.txt 1 blocks.
 Comprimiendo tar
-gzip: /cobishome/backups_cobissrv4_CTS_1//cobishome_cobissrv4_.tar.gz already exists; do you wish to overwrite (y or n)? 	not overwritten
-Generando tar de /cobishomeINT
+gzip: /cobishome/backups_cobissrv2_CTS_1//cobishome_cobissrv4_.tar.gz already exists; do you wish to overwrite (y or n)? 	not overwritten
+Generando tar de /cobishomeT
 a .
 a ./.timeserver1 1 blocks.
 a ./API_CTS_1.5.1.1
@@ -14706,7 +14706,7 @@ a ./PERFORMANCE/weblogic/run-create-work-manager.bat 1 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.sh 1 blocks.
 a ./Uninstaller
 a ./Uninstaller/uninstaller.jar 2410 blocks.
-a ./backups_cobissrv4_CTS_2 (excluded)
+a ./backups_cobissrv2_CTS_1 (excluded)
 a ./cobishomeint_27062025.tgz 348860 blocks.
 a ./contents.yml 2 blocks.
 a ./cts-operations.yml 4 blocks.
@@ -19691,7 +19691,7 @@ a ./PERFORMANCE/weblogic/create-work-manager.properties 2 blocks.
 a ./PERFORMANCE/weblogic/create-work-manager.py 10 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.bat 1 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.sh 1 blocks.
-a ./backups_cobissrv4_CTS_1 (excluded)
+a ./backups_cobissrv2_CTS_1 (excluded)
 a ./contents.yml 2 blocks.
 a ./cts-operations.yml 4 blocks.
 a ./excluirbackups.txt 1 blocks.
@@ -19741,7 +19741,7 @@ a ./temp (excluded)
 a ./versionManager.txt 1 blocks.
 a ./versionPack.txt 1 blocks.
 Comprimiendo tar
-Generando tar de /cobishomeINT
+Generando tar de /cobishomeT
 a .
 a ./.timeserver1 1 blocks.
 a ./API_CTS_1.5.1.1
@@ -22060,7 +22060,7 @@ a ./PERFORMANCE/weblogic/run-create-work-manager.bat 1 blocks.
 a ./PERFORMANCE/weblogic/run-create-work-manager.sh 1 blocks.
 a ./Uninstaller
 a ./Uninstaller/uninstaller.jar 2410 blocks.
-a ./backups_cobissrv4_CTS_2 (excluded)
+a ./backups_cobissrv2_CTS_1 (excluded)
 a ./cobishomeint_27062025.tgz 348860 blocks.
 a ./contents.yml 2 blocks.
 a ./cts-operations.yml 4 blocks.

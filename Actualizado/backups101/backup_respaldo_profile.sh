@@ -2,14 +2,14 @@
 # Variables
 fecha=$(date +%y-%m-%d)
 localhost=$(hostname)
-PROFILE="AppSrv01"
-PROFILE2="cobisint"
-SCRIPT_DIR="/usr/IBM/WebSphere/AppServer/profiles/AppSrv01/bin/"
-SCRIPT_DIR2="/usr/IBM/WebSphere/AppServer/profiles/cobisint/bin/"
-BACKUP_PROFILE="/cobishome/backups_cobissrv4_CTS_1"
-BACKUP_PROFILE2="/cobishomeINT/backups_cobissrv4_CTS_2"
-LOGS_PROFILE="/cobishome/backups_cobissrv4_CTS_1/$PROFILE_${localhost}_backup.log"
-LOGS_PROFILE2="/cobishomeINT/backups_cobissrv4_CTS_2/$PROFILE2_${localhost}_backup.log"
+PROFILE="cobists2"
+PROFILE2="cobists1"
+SCRIPT_DIR="/usr/IBM/WebSphere/AppServer/profiles/cobists2/bin/"
+SCRIPT_DIR2="/usr/IBM/WebSphere/AppServer/profiles/cobists1/bin/"
+BACKUP_PROFILE="/cobishome/backups_cobissrv2_CTS_1"
+BACKUP_PROFILE2="/cobishome/backups_cobissrv2_CTS_1"
+LOGS_PROFILE="/cobishome/backups_cobissrv2_CTS_1/$PROFILE_${localhost}_backup.log"
+LOGS_PROFILE2="/cobishome/backups_cobissrv2_CTS_1/$PROFILE2_${localhost}_backup.log"
 
 # Crear el directorio si no existe
 #mkdir -p "$BACKUP_PROFILE"
