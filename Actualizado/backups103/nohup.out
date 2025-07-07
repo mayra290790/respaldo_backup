@@ -1,0 +1,1369 @@
+Generando tar
+a .
+a ./.timeserver1 1 blocks.
+a ./CEW
+a ./CEW/assets
+a ./CEW/assets/languages
+a ./CEW/assets/languages/INFRA-en-EN.js 5 blocks.
+a ./CEW/assets/languages/INFRA-en-US.js 5 blocks.
+a ./CEW/assets/languages/INFRA-en.js 5 blocks.
+a ./CEW/assets/languages/INFRA-es-EC.js 5 blocks.
+a ./CEW/assets/languages/INFRA-es.js 5 blocks.
+a ./CEW/assets/languages/INFRA-es_BO.js 5 blocks.
+a ./CEW/assets/languages/INFRA-es_CO.js 5 blocks.
+a ./CEW/views
+a ./CEW/views/INFRA
+a ./CEW/views/INFRA/CTSRV
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_29_TLJOS38
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_29_TLJOS38/1.0.0
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_29_TLJOS38/1.0.0/VC_TLJOS38_FALOB_224.js 35 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_29_TLJOS38/1.0.0/VC_TLJOS38_FALOB_224.min.js 22 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_29_TLJOS38/1.0.0/VC_TLJOS38_FALOB_224_CUSTOM.js 3 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_29_TLJOS38/1.0.0/VC_TLJOS38_FALOB_224_FORM.html 13 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_29_TLJOS38/1.0.0/VC_TLJOS38_FALOB_224_TASK.html 6 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56/1.0.0
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56/1.0.0/VC_REION56_MIOBS_726.js 158 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56/1.0.0/VC_REION56_MIOBS_726.min.js 158 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56/1.0.0/VC_REION56_MIOBS_726.min_old.js 100 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56/1.0.0/VC_REION56_MIOBS_726_CUSTOM.js 8 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56/1.0.0/VC_REION56_MIOBS_726_FORM.html 23 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_68_REION56/1.0.0/VC_REION56_MIOBS_726_TASK.html 6 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_78_VNFTO21
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_78_VNFTO21/1.0.0
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_78_VNFTO21/1.0.0/VC_VNFTO21_OITON_449.js 138 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_78_VNFTO21/1.0.0/VC_VNFTO21_OITON_449.min.js 80 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_78_VNFTO21/1.0.0/VC_VNFTO21_OITON_449_CUSTOM.js 12 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_78_VNFTO21/1.0.0/VC_VNFTO21_OITON_449_FORM.html 13 blocks.
+a ./CEW/views/INFRA/CTSRV/T_CTSRV_78_VNFTO21/1.0.0/VC_VNFTO21_OITON_449_TASK.html 6 blocks.
+a ./CEW/views/INFRA/assets
+a ./CEW/views/INFRA/assets/scripts
+a ./CEW/views/INFRA/assets/scripts/INFRA.js 1 blocks.
+a ./CEW/views/INFRA/assets/styles
+a ./CEW/views/INFRA/assets/styles/INFRA.css 0 blocks.
+a ./CIS
+a ./CIS/SERVICES
+a ./CIS/SERVICES/ALERTS
+a ./CIS/SERVICES/ALERTS/services
+a ./CIS/SERVICES/ALERTS/services/alerts-service-config.xml 1 blocks.
+a ./CIS/SERVICES/BINNACLE
+a ./CIS/SERVICES/BINNACLE/services
+a ./CIS/SERVICES/BINNACLE/services/csp-binnacle-service-config.xml 7 blocks.
+a ./CIS/SERVICES/BVCOMPONENTS
+a ./CIS/SERVICES/BVCOMPONENTS/services
+a ./CIS/SERVICES/BVCOMPONENTS/services/bv-executor-config.xml 1 blocks.
+a ./CIS/SERVICES/BVCOMPONENTS/services/bv-executor-config.xsd 3 blocks.
+a ./CIS/SERVICES/BVCOMPONENTS/services/bv-executor-config_22_AB_2010.xml 1 blocks.
+a ./CIS/SERVICES/COREBANKING
+a ./CIS/SERVICES/COREBANKING/services
+a ./CIS/SERVICES/COREBANKING/services/csp-corebanking-service-config.xml 2 blocks.
+a ./CIS/SERVICES/COREBANKING/services/csp-corebanking-service-config.xsd 4 blocks.
+a ./CIS/SERVICES/CSPCONNECTOR
+a ./CIS/SERVICES/CSPCONNECTOR/master-cspconnector-config.xml 10 blocks.
+a ./CIS/SERVICES/CSPCONNECTOR/services
+a ./CIS/SERVICES/CSPCONNECTOR/services/authorizer.algncon 1 blocks.
+a ./CIS/SERVICES/CSPCONNECTOR/services/csp-connector-framework-config.xml 2 blocks.
+a ./CIS/SERVICES/CSPCONNECTOR/services/csp-cspconnector-service-config.xml 1 blocks.
+a ./CIS/SERVICES/CSPMANAGMENT
+a ./CIS/SERVICES/CSPMANAGMENT/services
+a ./CIS/SERVICES/CSPMANAGMENT/services/cspmanagment-reentry-queues.xml 1 blocks.
+a ./CIS/SERVICES/CSPMANAGMENT/services/cspmanagment-service-config.xml 3 blocks.
+a ./CIS/SERVICES/CSPMANAGMENT/services/cspmanagment-service-config.xsd 4 blocks.
+a ./CIS/SERVICES/CSPMANAGMENT/services/cspmanagment-services-names.xml 2 blocks.
+a ./CIS/SERVICES/CSPORCHESTRATORBASE
+a ./CIS/SERVICES/CSPORCHESTRATORBASE/OrchestratorConfig.properties 1 blocks.
+a ./CIS/SERVICES/CSPROUTING
+a ./CIS/SERVICES/CSPROUTING/infrastructure
+a ./CIS/SERVICES/CSPROUTING/infrastructure/csp-ccm-client-config.xml 2 blocks.
+a ./CIS/SERVICES/CSPROUTING/infrastructure/csp-ccm-client-config.xmlbkp28052025 2 blocks.
+a ./CIS/SERVICES/CSPROUTING/infrastructure/csp-ccm-config.xml 24 blocks.
+a ./CIS/SERVICES/CSPROUTING/services
+a ./CIS/SERVICES/CSPROUTING/services/csp-csprouting-service-config.xml 2 blocks.
+a ./CIS/SERVICES/CSPROUTING/services/csp-csprouting-service-config.xsd 4 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION
+a ./CIS/SERVICES/CTSTRANSFORMATION/services
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/Configuracion-330003.xml 7 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/Configuracion-330007-330008.xml 11 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40000.xml 7 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40010.xml 7 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40020-40070.xml 14 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40021-40060-40071.xml 14 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40022-40072.xml 11 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40023.xml 7 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40030.xml 19 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40040-330009-330012.xml 20 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40050.xml 19 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40080-40081.xml 15 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40110.xml 16 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40120.xml 25 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40130-40140.xml 6 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40699.xml 14 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-40999.xml 13 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-ESC-CIS-330-001.xml 14 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-ESC-CIS-330-002.xml 14 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-ESC-CIS-330-004.xml 14 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-ESC-CIS-330-005.xml 13 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-ESC-CIS-330-010.xml 15 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-ESC-CIS-330-011.xml 19 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-activarReentry.xml 2 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-dbms.xml 9 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-dynamic-test.xml 2 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-prueba-template.xml 11 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-transaccion.xsd 9 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-transaccion1.xml 14 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/configuracion-transaction-sp_pruebaActivarReentry.xml 5 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/csp-ctstransformation-service-config.xml 7 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/csp-ctstransformation-service-config.xml_101 113 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/csp-ctstransformation-service-config.xmlbkp28052025 7 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/csp-ctstransformation-service-config.xsd 6 blocks.
+a ./CIS/SERVICES/CTSTRANSFORMATION/services/provider-Status-Alerts.xml 5 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_2_3.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_3_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_3_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_3_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_3_7.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_3_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_4_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_6_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_1_7_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_2_3.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_3_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_3_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_3_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_3_7.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_3_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_4_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_6_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_2_7_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_2_3.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_3_10.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_3_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_3_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_3_8.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_3_9.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_4_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_6_7.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_7_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_8_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_3_9_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_10_11.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_11_12.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_12_16.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_13_14.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_14_15.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_15_16.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_16_17.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_1_2.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_1_3.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_1_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_2_3.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_3_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_3_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_5_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_6_7.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_6_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_7_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_8_12.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_8_13.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_8_9.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_9_10.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_9_12.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/CLASS_4_9_13.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_110_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_120_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_2_3.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_3_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_3_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_3_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_3_7.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_3_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_4_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_6_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_1_7_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_2_3.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_3_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_3_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_3_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_3_7.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_3_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_4_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_6_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_2_7_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_2_3.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_3_10.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_3_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_3_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_3_8.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_3_9.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_4_5.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_6_7.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_7_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_8_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_3_9_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_10_11.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_11_12.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_12_16.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_13_14.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_14_15.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_15_16.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_16_17.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_1_2.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_1_3.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_1_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_2_3.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_3_4.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_3_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_5_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_6_7.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_6_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_7_8.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_8_12.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_8_13.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_8_9.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_9_10.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_9_12.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_4_9_13.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_10_11.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_10_15.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_10_16.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_11_12.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_11_15.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_11_16.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_12_13.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_13_14.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_14_15.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_15_20.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_16_17.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_17_18.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_18_19.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_19_20.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_1_2.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_20_21.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_2_3.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_2_4.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_2_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_3_4.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_3_6.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_4_5.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_4_6.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_6_7.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_7_21.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_7_8.class 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_7_9.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_8_21.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_8_9.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/CompiledClass/NEXT_5_9_10.class 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/configuration-tr_consulta_movimientos_ah.xml 5 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/configuration-tr_consulta_movimientos_cc.xml 5 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/configuration-tr_consulta_saldo_cc.xml 4 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/configuration-tr_pago_servicio.xml 6 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/configuration-tr_transferencias.xml 5 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/template-Consulta_Movimientos.xml 23 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/template-Consulta_Saldos.xml 36 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/template-Pago_Servicio.xml 70 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/BancaVirtual/template-Transferencias.xml 95 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/Test
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/Test/configuration-corebanking-proveedor.xml 2 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/Test/configuration-proveedor-proveedor.xml 10 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/Test/configuration-registro-transaccion.xml 4 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/Test/template-ejecucion-corebanking-proveedores.xml 13 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/Test/template-ejecucion-proveedores-proveedores.xml 13 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/Test/template-transaccion-dinamica.xml 8 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/dynamicorchestrator-config.xml 4 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/dynamicorchestrator-config.xsd 6 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/excluded-error-codes-config.xml 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/ssnclient-config.xml 1 blocks.
+a ./CIS/SERVICES/DYNAMICORCHESTRATOR/services/template-schema.xsd 14 blocks.
+a ./CIS/SERVICES/LICENSE
+a ./CIS/SERVICES/LICENSE/license
+a ./CIS/SERVICES/LICENSE/license/cis.lic 1 blocks.
+a ./CIS/SERVICES/LICENSE/license/cis.lic.backup 1 blocks.
+a ./CIS/SERVICES/LICENSE/license/readLicenseCIS.jar 8 blocks.
+a ./CIS/SERVICES/LICENSE/license/readme.txt 1 blocks.
+a ./CIS/SERVICES/LICENSE/services
+a ./CIS/SERVICES/LICENSE/services/licence-service-config.xml 1 blocks.
+a ./CIS/SERVICES/LOCKTRANSACTION
+a ./CIS/SERVICES/LOCKTRANSACTION/services
+a ./CIS/SERVICES/LOCKTRANSACTION/services/locktransaction-service-config.xml 2 blocks.
+a ./CIS/SERVICES/LOCKTRANSACTION/services/locktransaction-service-config.xsd 5 blocks.
+a ./CIS/SERVICES/MAKERCHECKER
+a ./CIS/SERVICES/MAKERCHECKER/services
+a ./CIS/SERVICES/MAKERCHECKER/services/bvmaker-checker-config.xml 1 blocks.
+a ./CIS/SERVICES/MAKERCHECKER/services/bvmaker-checker-config.xsd 4 blocks.
+a ./CIS/SERVICES/PROVIDER
+a ./CIS/SERVICES/PROVIDER/services
+a ./CIS/SERVICES/PROVIDER/services/csp-provider-service-config.xml 2 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/QS
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/QS/QS-330014.xml 5 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/QS/QS-40531.xml 34 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/QS/QS-Instance.xsd 8 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/QS/querystringtransformation-config.xml 3 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/QS/querystringtransformation-config.xsd 9 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/classes-config.xml 1 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/response
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/response/response-Pacifictel.xml 3 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/response/response-Porta.xml 3 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/response/response-SRI.xml 3 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/response/response-provider-XML.xml 1 blocks.
+a ./CIS/SERVICES/QUERYSTRINGTRANSFORMATION/services/response/response.xml 1 blocks.
+a ./CIS/SERVICES/REVERSECOREBANKING
+a ./CIS/SERVICES/REVERSECOREBANKING/services
+a ./CIS/SERVICES/REVERSECOREBANKING/services/csp-reversecorebanking-service-config.xml 1 blocks.
+a ./CIS/SERVICES/SYNCHRONOUSORCHESTRATOR
+a ./CIS/SERVICES/SYNCHRONOUSORCHESTRATOR/services
+a ./CIS/SERVICES/SYNCHRONOUSORCHESTRATOR/services/synchronousorchestrator-config.xml 2 blocks.
+a ./CIS/SERVICES/SYNCHRONOUSORCHESTRATOR/services/synchronousorchestrator-config.xsd 4 blocks.
+a ./CIS/SERVICES/TCPCONNECTORHANDLER
+a ./CIS/SERVICES/TCPCONNECTORHANDLER/master-tcpconnectorhandler-config.xml 5 blocks.
+a ./CIS/SERVICES/TCPCONNECTORHANDLER/services
+a ./CIS/SERVICES/TCPCONNECTORHANDLER/services/cis-tcpconnectorhandler-service-config.xml 2 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services/ISO8583
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services/ISO8583/ISO8583-330015.xml 6 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services/ISO8583/ISO8583-40541.xml 56 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services/ISO8583/ISO8583-Instance.xsd 14 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services/ISO8583/tcptransformationISO8583-config.xml 4 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services/ISO8583/tcptransformationISO8583-config.xsd 9 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONISO8583/services/classes-config.xml 1 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/X11
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/X11/X11-330013.xml 21 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/X11/X11-40520.xml 20 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/X11/X11-Instance.xsd 10 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/X11/tcptransformationx11-config.xml 4 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/X11/tcptransformationx11-config.xsd 9 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/classes-config.xml 1 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/response
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/response/response-Pacifictel.xml 3 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/response/response-Porta.xml 3 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/response/response-SRI.xml 3 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/response/response-provider-XML.xml 1 blocks.
+a ./CIS/SERVICES/TCPTRANSFORMATIONX11/services/response/response.xml 1 blocks.
+a ./CIS/SERVICES/THRESHOLD
+a ./CIS/SERVICES/THRESHOLD/services
+a ./CIS/SERVICES/THRESHOLD/services/csp-threshold-service-config.xml 3 blocks.
+a ./CIS/SERVICES/TIMEOUT
+a ./CIS/SERVICES/TIMEOUT/services
+a ./CIS/SERVICES/TIMEOUT/services/csp-timeout-service-config.xml 1 blocks.
+a ./CIS/SERVICES/connector
+a ./CIS/SERVICES/connector/connector-service-config.xml 1 blocks.
+a ./CIS/SERVICES/logs
+a ./CIS/SERVICES/logs/COBISErr_ctstransformation-config.log 41 blocks.
+a ./CIS/SERVICES/plugins
+a ./CIS/SERVICES/plugins/BVExecutor-2.0.0.jar 23 blocks.
+a ./CIS/SERVICES/plugins/BVInterceptorTransfer-1.0.1.jar 14 blocks.
+a ./CIS/SERVICES/plugins/BVMakerAndChecker-2.0.0.jar 41 blocks.
+a ./CIS/SERVICES/plugins/BinnacleService-2.0.0.jar 50 blocks.
+a ./CIS/SERVICES/plugins/CISConnectorFramework-2.0.0.jar 30 blocks.
+a ./CIS/SERVICES/plugins/CSPConnectorService-2.0.0.jar 35 blocks.
+a ./CIS/SERVICES/plugins/CSPConnectorService-mq-1.0.2.jar 28 blocks.
+a ./CIS/SERVICES/plugins/CSPHandlers-2.0.0.jar 101 blocks.
+a ./CIS/SERVICES/plugins/CSPLicenses-2.0.0.jar 18 blocks.
+a ./CIS/SERVICES/plugins/CSPManagmentService-1.1.3.jar 168 blocks.
+a ./CIS/SERVICES/plugins/CSPRestGenericConnector.jar 5129 blocks.
+a ./CIS/SERVICES/plugins/CSPRouting-2.0.0.jar 21 blocks.
+a ./CIS/SERVICES/plugins/CTSTransformation-1.0.3.1.jar 2697 blocks.
+a ./CIS/SERVICES/plugins/CTSTransformation-1.0.3.jar 2695 blocks.
+a ./CIS/SERVICES/plugins/CoreBanking-2.0.0.jar 25 blocks.
+a ./CIS/SERVICES/plugins/DynamicOrchestrator-2.0.0.jar 3027 blocks.
+a ./CIS/SERVICES/plugins/LockTransaction-2.0.0.jar 21 blocks.
+a ./CIS/SERVICES/plugins/Orchestrator-2.0.0.jar 28 blocks.
+a ./CIS/SERVICES/plugins/Orchestrator-mq-1.0.3.jar 2849 blocks.
+a ./CIS/SERVICES/plugins/ProviderService-2.0.0.jar 77 blocks.
+a ./CIS/SERVICES/plugins/ProviderService-mq-1.0.1.1.jar 62 blocks.
+a ./CIS/SERVICES/plugins/ReverseCoreBanking-2.0.0.jar 23 blocks.
+a ./CIS/SERVICES/plugins/SPJavaOrchestrationBanelco7x24_1.8.jar 32 blocks.
+a ./CIS/SERVICES/plugins/SSNSocketClient-2.0.0.jar 16 blocks.
+a ./CIS/SERVICES/plugins/SynchronousOrchestrator-2.0.0.jar 70 blocks.
+a ./CIS/SERVICES/plugins/SynchronousOrchestrator-mq-1.0.5.1.jar 57 blocks.
+a ./CIS/SERVICES/plugins/SynchronousOrchestratorV2-2.0.0.jar 61 blocks.
+a ./CIS/SERVICES/plugins/TCPConnectorHandler-2.0.0.jar 23 blocks.
+a ./CIS/SERVICES/plugins/TCPTransformationISO8583-2.0.0.jar 250 blocks.
+a ./CIS/SERVICES/plugins/TCPTransformationQS-2.0.0.jar 223 blocks.
+a ./CIS/SERVICES/plugins/TCPTransformationX11-2.0.0.jar 245 blocks.
+a ./CIS/SERVICES/plugins/ThresholdService-2.0.0.jar 37 blocks.
+a ./CIS/SERVICES/plugins/TimeoutService-2.0.0.jar 24 blocks.
+a ./CIS/SERVICES/plugins/alerts-service-impl-2.0.0.jar 25 blocks.
+a ./CIS/SERVICES/plugins/ast-csp-orchestration-afilia_cliente_bv_om_1.8.jar 179 blocks.
+a ./CIS/SERVICES/plugins/ast-csp-orchestration-base_1.8.jar 135 blocks.
+a ./CIS/SERVICES/plugins/ast-csp-orchestration-cliente_si_1.8.jar 154 blocks.
+a ./CIS/SERVICES/plugins/ast-csp-orchestration-cliente_si_1.8.jarbkp02062025 153 blocks.
+a ./CIS/SERVICES/plugins/ast-csp-orchestration-genera_Token1.8.jar 49 blocks.
+a ./CIS/SERVICES/plugins/cobis-crypt-api-1.0.0.jar 9 blocks.
+a ./CIS/SERVICES/plugins/cobis-crypt-impl-1.0.0.jar 13 blocks.
+a ./CIS/SERVICES/plugins/org.apache.felix.configadmin-1.2.4.jar 178 blocks.
+a ./CIS/SERVICES/plugins/org.apache.felix.scr-1.0.8.jar 234 blocks.
+a ./CIS/SERVICES/plugins/org.apache.felix.scr-1.4.0.jar 382 blocks.
+a ./CIS/SERVICES/plugins/sp-java-orchestration-base-2.0.0.jar 29 blocks.
+a ./CIS/plugins
+a ./CIS/plugins/atm-commons-1.0.3.jar 37 blocks.
+a ./CIS/plugins/cis-connector-api-2.0.0.jar 11 blocks.
+a ./CIS/plugins/cis-connector-utils-2.1.0.jar 33 blocks.
+a ./CIS/plugins/connector-base-2.1.2.jar 116 blocks.
+a ./CIS/plugins/connector-base-2.2.1.jar 117 blocks.
+a ./CIS/plugins/iso8583-connector-impl-2.1.1.jar 85 blocks.
+a ./CIS/plugins/iso8583-connector-impl-2.2.0.jar 85 blocks.
+a ./CIS/plugins/tcp-executor-api-2.0.0.jar 10 blocks.
+a ./CIS/plugins/tcp-executor-impl-2.2.0.jar 59 blocks.
+a ./CIS/plugins/tcp-handler-impl-2.1.0.jar 19 blocks.
+a ./CIS/plugins/x11-connector-impl-2.0.1.jar 67 blocks.
+a ./CIS/version.txt 1 blocks.
+a ./CTS-Installer
+a ./CTS-Installer/BASE
+a ./CTS-Installer/BASE/cts-cis
+a ./CTS-Installer/BASE/cts-cis/ears
+a ./CTS-Installer/BASE/cts-cis/ears/CTSEAR-2.0.0.ear 44132 blocks.
+a ./CTS-Installer/BASE/cts-cis/ears/cts-console-container-2.0.0.ear 116762 blocks.
+a ./CTS-Installer/BASE/cts-cis/mainBASE.groovy 90 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/CSP_BDD-ds.properties 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/CTS_SQLBDD_MFds.properties 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_cluster.cli 20 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_data_source.cli 13 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_data_source_ien.cli 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_data_source_local.cli 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_data_source_local_cluster.cli 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_jms.cli 4 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_mod_cluster.cli 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/create_mod_driver.cli 6 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteAll.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteAll.cli 8 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteAll.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteAllCluster.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteAllCluster.cli 6 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteAllCluster.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteFiles.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/deleteFiles.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/jbossVariables.properties 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/jms.properties 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/mod_driver.properties 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runCluster.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runCluster.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runClusterMod.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runClusterMod.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceCentral.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceCentral.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceIen.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceIen.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceLocal.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceLocal.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceLocalCluster.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runDataSourceLocalCluster.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runEarsCluster.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runEarsDeploy.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runEarsDeploy.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runJMS.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runJMS.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runModules.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/jboss/runModules.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/install-uninstall-applications.py 9 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/ApplicationManager$py.class 23 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/ApplicationManager.py 8 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/StringUtils$py.class 9 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/StringUtils.py 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/createKeyStore2$py.class 16 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/createKeyStore2.py 9 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_WasLog$py.class 11 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_WasLog.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_application.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_authentication$py.class 9 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_authentication.py 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_cacheObj$py.class 12 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_cacheObj.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_ds_property$py.class 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_ds_property.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_act_spec$py.class 14 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_act_spec.py 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_cf$py.class 12 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_cf.py 4 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_queue$py.class 14 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_queue.py 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_ra$py.class 12 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_j2c_omq_ra.py 4 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jdbc_ds$py.class 13 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jdbc_ds.py 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jdbc_provider$py.class 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jdbc_provider.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_as$py.class 14 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_as.py 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_qcf$py.class 11 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_qcf.py 4 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_queue$py.class 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_queue.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_tcf$py.class 11 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_tcf.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_topic$py.class 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jms_topic.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jvm$py.class 13 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_jvm.py 4 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_mail_pp$py.class 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_mail_pp.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_mail_provider$py.class 8 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_mail_provider.py 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_mail_session$py.class 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_mail_session.py 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_shared_library$py.class 12 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_shared_library.py 4 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_variable$py.class 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/mod_variable.py 3 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/noecho.properties 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/wasadmin$py.class 15 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/libs/wasadmin.py 8 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/main.py 6 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/was/retrieve-ports.py 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/CSP_BDD-ds.properties 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/CTS_SQLBDD_MF-ds.properties 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/create_cobis_server.py 14 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/create_data_source.py 15 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/create_data_source_ien.py 13 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/create_deployment.py 4 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/create_jms.py 16 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/create_jvm_servers_cluster.py 10 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/deleteAll.py 7 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDataSourceCentral.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDataSourceCentral.sh 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDataSourceIen.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDataSourceIen.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDataSourceLocal.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDataSourceLocal.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDeleteAll.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runDeleteAll.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runEarsDeploy.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runEarsDeploy.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runJMS.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runJMS.sh 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runServer.bat 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runServer.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runServerJVM.bat 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/runServerJVM.sh 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/appserver/webLogic/webLogicVariables.properties 5 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/queuemanager
+a ./CTS-Installer/BASE/cts-cis/scripts/queuemanager/ibmmq
+a ./CTS-Installer/BASE/cts-cis/scripts/queuemanager/ibmmq/main.jacl 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/cts-edit-ccm-jboss.groovy 11 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/cts-edit-ccm-weblogic.groovy 11 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/cts-edit-cts-console-config.groovy 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/cts-edit-plan-jboss.groovy 7 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/cts-edit-plan-weblogic.groovy 8 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/cts-edit-plan.groovy 2 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/cts-edit-service-integration-service-config.groovy 1 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/edit-cts-dbms-config.groovy 6 blocks.
+a ./CTS-Installer/BASE/cts-cis/scripts/xml/edit-scheduler-config.groovy 2 blocks.
+a ./CTS-Installer/UPD
+a ./CTS-Installer/UPD/cts-cis
+a ./CTS-Installer/UPD/cts-cis/ears
+a ./CTS-Installer/UPD/cts-cis/ears/CTSEAR-2.0.0.ear 46009 blocks.
+a ./CTS-Installer/UPD/cts-cis/ears/cts-console-container-2.0.0.ear 116882 blocks.
+a ./CTS-Installer/UPD/cts-cis/mainUPD.groovy 95 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/CSP_BDD-ds.properties 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/CTS_SQLBDD_MFds.properties 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_cluster.cli 14 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_data_source.cli 11 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_data_source_ien.cli 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_data_source_local.cli 10 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_data_source_local_cluster.cli 11 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_jms.cli 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_mod_cluster.cli 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/create_mod_driver.cli 8 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteAll.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteAll.cli 8 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteAll.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteAllCluster.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteAllCluster.cli 6 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteAllCluster.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteFiles.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/deleteFiles.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/jbossVariables.properties 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/jms.properties 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/mod_driver.properties 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runCluster.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runCluster.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runClusterMod.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runClusterMod.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceCentral.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceCentral.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceIen.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceIen.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceLocal.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceLocal.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceLocalCluster.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runDataSourceLocalCluster.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runEarsCluster.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runEarsDeploy.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runEarsDeploy.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runJMS.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runJMS.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runModules.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/jboss/runModules.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/4_1_0_1720_1_install-uninstall-applications.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/change-ds-pool-properties.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/create-activation-specification-was.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/create-console-topic-cf.py 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/create-console-was-queue.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/create-was-queue.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/install-applications.py 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/install-uninstall-applications.py 8 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/ApplicationManager$py.class 23 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/ApplicationManager.py 8 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/StringUtils$py.class 9 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/StringUtils.py 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/createKeyStore2$py.class 16 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/createKeyStore2.py 9 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_WasLog$py.class 11 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_WasLog.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_cacheObj$py.class 12 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_cacheObj.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_ds_property$py.class 14 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_ds_property.py 6 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_jms_qcf$py.class 11 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_jms_qcf.py 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_jvm$py.class 13 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_jvm.py 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_shared_library$py.class 12 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/mod_shared_library.py 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/wasadmin$py.class 15 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/libs/wasadmin.py 8 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/main.py 6 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/mod_Cluster_ActSpec.py 6 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/mod_Cluster_ConnFactory.py 5 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/mod_JdbcProvider.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/mod_Topic_Was.py 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/was/ws-jvm-version.py 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/CSP_BDD-ds.properties 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/CTS_SQLBDD_MF-ds.properties 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/create_cobis_server.py 12 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/create_data_source.py 18 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/create_data_source_ien.py 6 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/create_deployment.py 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/create_jms.py 8 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/create_jvm_servers_cluster.py 9 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/deleteAll.py 7 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDataSourceCentral.bat 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDataSourceCentral.sh 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDataSourceIen.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDataSourceIen.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDataSourceLocal.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDataSourceLocal.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDeleteAll.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runDeleteAll.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runEarsDeploy.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runEarsDeploy.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runJMS.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runJMS.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runServer.bat 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runServer.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runServerJVM.bat 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/runServerJVM.sh 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/appserver/webLogic/webLogicVariables.properties 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/queuemanager
+a ./CTS-Installer/UPD/cts-cis/scripts/queuemanager/ibmmq
+a ./CTS-Installer/UPD/cts-cis/scripts/queuemanager/ibmmq/main.jacl 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ModifyExtraPackage.groovy 4 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ModifyPlans.groovy 5 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ModifyPlugins.groovy 7 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-authorization-service-config.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-authorized-roles-service-config.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-ccm-3-4-0.groovy 143 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-ccm-4-0-0.groovy 34 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-ccm-client.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-ccm-jboss.groovy 11 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-ccm-weblogic.groovy 11 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-cen-cache.groovy 29 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-cobis-authorization-manager-config.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-console-client-config.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-console-config.groovy 14 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-cts-authentication-manager.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-cts-authentication.groovy 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-dbms-config.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-event-manager-config.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-integration-service-config.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-master.groovy 60 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-multi-backEnd-service-config.groovy 6 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-plan-3-4-0.groovy 135 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-plan-4-0-0.groovy 57 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-plan-jboss.groovy 7 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-plan-old.groovy 31 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-plan-weblogic.groovy 8 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-services-utils-manager-config.groovy 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-session-manager-service-config.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-socket-ssn-config.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-spexecutor-config.groovy 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-edit-trlogger-config.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/cts-routing-edit-configuration.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-all-ears-ccm.groovy 16 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-all-log-config.groovy 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-binnacle-service-config.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-csp-ccm-config.groovy 34 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-csp-ctstransformation-service-config.groovy 7 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-cts-dependency-config.groovy 3 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-cts-log-config.groovy 66 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-errorsMessage-en-config.groovy 13 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-errorsMessage-es-config.groovy 17 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/edit-errorsMessage-fr-config.groovy 13 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ien-edit-ccm-client-config.groovy 9 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ien-edit-ccm-config.groovy 5 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ien-edit-ccm-core-config.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ien-edit-engine-process-context.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/ien-edit-master.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/move-masterConfig-fromCIStoCTS.groovy 5 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-cobis-special-sp-config.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-cts-dbms-config.groovy 6 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-existing-plugins.groovy 14 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-loggerConfig-to-log4j2.groovy 5 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-module-microsoft-jboss.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-module-sybase-jboss.groovy 1 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-reentry-scheduler-config.groovy 5 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-registry-statistics-config.groovy 2 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-scheduler-config.groovy 5 blocks.
+a ./CTS-Installer/UPD/cts-cis/scripts/xml/update-spexecutor-convertReal-configuration.groovy 2 blocks.
+a ./CTS_MF
+a ./CTS_MF/CompiledClass
+a ./CTS_MF/CompiledClass/AuthorizationDynamicEvaluator.class 4 blocks.
+a ./CTS_MF/CompiledClass/DynamicRules.class 3 blocks.
+a ./CTS_MF/console
+a ./CTS_MF/console/cts-console-charts-config.xml 3 blocks.
+a ./CTS_MF/console/cts-console-config.xml 13 blocks.
+a ./CTS_MF/infrastructure
+a ./CTS_MF/infrastructure/GeneradorALGN.exe 448 blocks.
+a ./CTS_MF/infrastructure/Sql.algncon 1 blocks.
+a ./CTS_MF/infrastructure/Syb.algncon 1 blocks.
+a ./CTS_MF/infrastructure/cts-ccm-client-config.xml 1 blocks.
+a ./CTS_MF/infrastructure/cts-ccm-config.xml 22 blocks.
+a ./CTS_MF/infrastructure/cts-ccm-plan-config.xml 52 blocks.
+a ./CTS_MF/infrastructure/cts-dbms-config.xml 4 blocks.
+a ./CTS_MF/infrastructure/cts-dependency-config.xml 7 blocks.
+a ./CTS_MF/infrastructure/cts-log-config-backup-before-fix11.5.7.xml 14 blocks.
+a ./CTS_MF/infrastructure/cts-log-config.xml 14 blocks.
+a ./CTS_MF/infrastructure/cts-log-config_console.xml 3 blocks.
+a ./CTS_MF/infrastructure/cts-log-console-config.xml 14 blocks.
+a ./CTS_MF/infrastructure/cts-messaging-config.xml 2 blocks.
+a ./CTS_MF/infrastructure/licences-service-config.xml 2 blocks.
+a ./CTS_MF/license
+a ./CTS_MF/license/cts.lic 1 blocks.
+a ./CTS_MF/license/cts.lic.backup 1 blocks.
+a ./CTS_MF/license/readLicenseCTS.jar 10 blocks.
+a ./CTS_MF/license/readme.txt 1 blocks.
+a ./CTS_MF/master-cts-mf-as.xml 61 blocks.
+a ./CTS_MF/plugins
+a ./CTS_MF/plugins/COBISBinarySerializer-2.0.0.jar 511 blocks.
+a ./CTS_MF/plugins/COBISCache-2.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/COBISCommonsImpl-2.0.5.jar 120 blocks.
+a ./CTS_MF/plugins/COBISCommonsImpl-2.0.7.jar 119 blocks.
+a ./CTS_MF/plugins/COBISComponentLoader-2.0.0.jar 17 blocks.
+a ./CTS_MF/plugins/COBISCorp.eCOBIS.BnCompras.DTO-1.0.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/COBISCorp.eCOBIS.BnCompras.Service-1.0.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/COBISCorp.eCOBIS.OfficeBanking.Commons.Admin.DTO-1.0.0.1.jar 13 blocks.
+a ./CTS_MF/plugins/COBISCorp.eCOBIS.OfficeBanking.Commons.Admin.Service-1.0.0.1.jar 15 blocks.
+a ./CTS_MF/plugins/COBISEvent-2.0.0.jar 16 blocks.
+a ./CTS_MF/plugins/COBISEventImpl-2.0.2.jar 24 blocks.
+a ./CTS_MF/plugins/COBISMakerAndChecker-1.0.0.jar 11 blocks.
+a ./CTS_MF/plugins/COBISObjectPool-2.0.0.jar 214 blocks.
+a ./CTS_MF/plugins/COBISPlanComponentLoader-2.0.0.jar 46 blocks.
+a ./CTS_MF/plugins/COBISSerializer-2.0.0.jar 902 blocks.
+a ./CTS_MF/plugins/COBISTSAdminServicesDTO-2.0.0.jar 32 blocks.
+a ./CTS_MF/plugins/COBISTSAdminServicesImpl-2.0.1.jar 28 blocks.
+a ./CTS_MF/plugins/COBISTSCENServices-2.0.0.jar 44 blocks.
+a ./CTS_MF/plugins/COBISTSCENServicesImpl-2.0.0.jar 65 blocks.
+a ./CTS_MF/plugins/CTSAdminServicesImpl-2.0.1.jar 128 blocks.
+a ./CTS_MF/plugins/CTSAuthentication-2.1.0.jar 167 blocks.
+a ./CTS_MF/plugins/CTSAuthentication-2.1.1.jar 167 blocks.
+a ./CTS_MF/plugins/CTSAuthorization-2.0.3.jar 69 blocks.
+a ./CTS_MF/plugins/CTSCENServicesImpl-2.0.0.jar 134 blocks.
+a ./CTS_MF/plugins/CTSCommonsImpl-2.0.14.1.jar 430 blocks.
+a ./CTS_MF/plugins/CTSCommonsImpl-2.0.9.jar 434 blocks.
+a ./CTS_MF/plugins/CTSEAR-2.0.0.ear 46009 blocks.
+a ./CTS_MF/plugins/CTSEnvelop-2.0.1.jar 19 blocks.
+a ./CTS_MF/plugins/CTSEtoken-2.0.0.jar 36 blocks.
+a ./CTS_MF/plugins/CTSHandlers-2.4.1.jar 184 blocks.
+a ./CTS_MF/plugins/CTSHandlers-2.4.4.jar 185 blocks.
+a ./CTS_MF/plugins/CTSLicenses-2.0.3.jar 45 blocks.
+a ./CTS_MF/plugins/CTSLicenses-2.0.4.jar 48 blocks.
+a ./CTS_MF/plugins/CTSLogger-2.0.4.jar 30 blocks.
+a ./CTS_MF/plugins/CTSMQSeriesImpl-2.0.0.jar 14 blocks.
+a ./CTS_MF/plugins/CTSOrchestrator-2.1.5.jar 116 blocks.
+a ./CTS_MF/plugins/CTSOrchestrator-2.1.8.jar 116 blocks.
+a ./CTS_MF/plugins/CTSRouting-2.0.1.jar 22 blocks.
+a ./CTS_MF/plugins/CTSSPExecutor-2.3.0.jar 178 blocks.
+a ./CTS_MF/plugins/CTSSPExecutor-2.3.3.jar 181 blocks.
+a ./CTS_MF/plugins/CTSSerializer-2.0.0.jar 17 blocks.
+a ./CTS_MF/plugins/CTSServiceExecutor-2.1.0.jar 115 blocks.
+a ./CTS_MF/plugins/CTSServiceExecutor-2.1.1.jar 117 blocks.
+a ./CTS_MF/plugins/CTSServiceFrameworkImpl-2.0.0.jar 60 blocks.
+a ./CTS_MF/plugins/CTSServiceIntegrationImpl-2.0.1.jar 47 blocks.
+a ./CTS_MF/plugins/CTSServiceIntegrationImpl-2.0.2.jar 48 blocks.
+a ./CTS_MF/plugins/CTSServiceTest-1.0.0.jar 23 blocks.
+a ./CTS_MF/plugins/CTSServiceTestCOXAnot-1.0.0.jar 19 blocks.
+a ./CTS_MF/plugins/CTSServiceTestCOXAnotTO-1.0.0.jar 19 blocks.
+a ./CTS_MF/plugins/CTSServiceTestTO-1.0.0.jar 14 blocks.
+a ./CTS_MF/plugins/CTSServicesApi-1.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/CTSServicesUtils-2.0.5.jar 257 blocks.
+a ./CTS_MF/plugins/CTSSession-2.0.3.jar 127 blocks.
+a ./CTS_MF/plugins/CTSSession-2.0.4.jar 127 blocks.
+a ./CTS_MF/plugins/CTSSignerVerifier-2.0.0.jar 16 blocks.
+a ./CTS_MF/plugins/CTSSpecialSPExecutor-1.0.3.1.jar 64 blocks.
+a ./CTS_MF/plugins/CTSStatistics-2.0.0.jar 78 blocks.
+a ./CTS_MF/plugins/CTSStatistics-2.1.0.jar 80 blocks.
+a ./CTS_MF/plugins/CTSStatisticsRestImpl-1.0.0.jar 19 blocks.
+a ./CTS_MF/plugins/CTSSubmitRpcExecutor-1.0.4.jar 58 blocks.
+a ./CTS_MF/plugins/CTSSubmitRpcExecutor-1.0.7.jar 59 blocks.
+a ./CTS_MF/plugins/CTSTRLogger-2.0.1.jar 66 blocks.
+a ./CTS_MF/plugins/CTSTRLogger-2.0.2.jar 66 blocks.
+a ./CTS_MF/plugins/CTSTransformation-2.0.0.jar 2703 blocks.
+a ./CTS_MF/plugins/CTSWSServicesImpl-2.0.0.jar 27 blocks.
+a ./CTS_MF/plugins/IEAdminService-1.0.2.jar 8991 blocks.
+a ./CTS_MF/plugins/cobis-cert-rep-2.0.0.jar 26 blocks.
+a ./CTS_MF/plugins/cobis-dynamic-java-util-2.0.0.jar 17 blocks.
+a ./CTS_MF/plugins/cobis-ehcache-impl-2.0.0.jar 954 blocks.
+a ./CTS_MF/plugins/cobis-otp-api-1.0.0.jar 14 blocks.
+a ./CTS_MF/plugins/cobis-otp-impl-1.0.0.jar 28 blocks.
+a ./CTS_MF/plugins/config
+a ./CTS_MF/plugins/cts-console-container-2.0.0.ear 116882 blocks.
+a ./CTS_MF/plugins/cts-final-plugin-1.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/cts-grpc-server-2.0.0.jar 40842 blocks.
+a ./CTS_MF/plugins/cts-servexecutor-external-auth-api-2.0.0.jar 19 blocks.
+a ./CTS_MF/plugins/cts-service-executor-inprocclient-2.0.0.jar 11 blocks.
+a ./CTS_MF/plugins/cts-service-executor-wsclient-1.0.0.jar 29 blocks.
+a ./CTS_MF/plugins/cts-services-api-2.2.3.jar 81 blocks.
+a ./CTS_MF/plugins/cts-special-spexecutor-2.1.0.jar 106 blocks.
+a ./CTS_MF/plugins/framework
+a ./CTS_MF/plugins/framework/admin-middleware
+a ./CTS_MF/plugins/framework/admin-middleware/cts-service-job-api-2.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/framework/admin-middleware/cts-service-job-impl-2.0.0.jar 22 blocks.
+a ./CTS_MF/plugins/framework/admin-middleware/cts-service-job-notification-api-2.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/framework/admin-middleware/cts-service-job-notification-impl-2.0.0.jar 23 blocks.
+a ./CTS_MF/plugins/framework/admin-middleware/cts-service-notification-api-2.0.0.jar 10 blocks.
+a ./CTS_MF/plugins/framework/admin-middleware/cts-service-notification-impl-2.0.0.jar 29 blocks.
+a ./CTS_MF/plugins/framework/apache
+a ./CTS_MF/plugins/framework/apache/com.springsource.org.apache.bsf-2.4.0.jar 242 blocks.
+a ./CTS_MF/plugins/framework/apache/com.springsource.org.apache.commons.codec-1.5.0.jar 156 blocks.
+a ./CTS_MF/plugins/framework/apache/com.springsource.org.apache.commons.discovery-0.4.0.jar 164 blocks.
+a ./CTS_MF/plugins/framework/apache/com.springsource.org.apache.commons.httpclient-3.1.0.jar 635 blocks.
+a ./CTS_MF/plugins/framework/apache/com.springsource.org.apache.commons.lang-2.6.0.jar 587 blocks.
+a ./CTS_MF/plugins/framework/apache/com.springsource.org.apache.commons.net-2.0.0.jar 416 blocks.
+a ./CTS_MF/plugins/framework/apache/com.springsource.org.apache.poi-3.9.0.FINAL.jar 3917 blocks.
+a ./CTS_MF/plugins/framework/apache/xmlsec-1.5.5.jar 1326 blocks.
+a ./CTS_MF/plugins/framework/console
+a ./CTS_MF/plugins/framework/console/com.springsource.org.codehaus.jackson-1.4.3.jar 314 blocks.
+a ./CTS_MF/plugins/framework/console/com.springsource.org.codehaus.jackson.mapper-1.4.3.jar 806 blocks.
+a ./CTS_MF/plugins/framework/console/com.springsource.org.joda.time-1.6.0.jar 1179 blocks.
+a ./CTS_MF/plugins/framework/console/cts-console-command-2.0.2.jar 485 blocks.
+a ./CTS_MF/plugins/framework/console/cts-console-domain-2.0.0.jar 302 blocks.
+a ./CTS_MF/plugins/framework/console/cts-console-jmx-2.0.0.jar 18 blocks.
+a ./CTS_MF/plugins/framework/console/cts-console-messaging-2.0.1.jar 24 blocks.
+a ./CTS_MF/plugins/framework/console/cts-console-plugin-2.0.1.jar 28 blocks.
+a ./CTS_MF/plugins/framework/console/cts-console-properties-2.0.0.jar 20 blocks.
+a ./CTS_MF/plugins/framework/console/cts-console-serializer-2.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/framework/cts
+a ./CTS_MF/plugins/framework/cts/cobis-cipher-util-2.0.0.jar 31 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-cts-bsl-util-2.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-cts-cobisv-base-api-2.0.0.jar 14 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-cts-cobisv-base-impl-2.0.0.jar 17 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-document-manager-bsl-2.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-document-manager-bsl-impl-2.0.0.jar 24 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-document-manager-dal-2.0.0.jar 20 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-i18n-api-2.0.0.jar 49 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-i18n-impl-2.0.0.jar 49 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-i18n-resource-impl-2.0.0.jar 48 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-instrumentation-2.0.0.jar 44 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-jdbc-3.0.0.jar 39 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-jdbc-impl-3.1.1.jar 72 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-jndi-2.0.0.jar 24 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-mime-utils-2.0.0.jar 15 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-plugin-activator-2.0.4.jar 48 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-scheduler-api-2.1.0.jar 24 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-scheduler-impl-2.2.0.jar 128 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-scheduler-impl-2.2.2.jar 128 blocks.
+a ./CTS_MF/plugins/framework/cts/cobis-ws-scheduler-2.0.0.jar 21 blocks.
+a ./CTS_MF/plugins/framework/cts/cobisv-commons-2.0.0.jar 117 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-authorization-resources-2.1.0.jar 75 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-cache-listener-2.0.0.jar 21 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-digital-signature-service-2.0.0.jar 44 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-document-manager-authorization-2.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-error-message-manager-impl-2.0.0.jar 26 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-interceptors-3.0.0.jar 21 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-interceptors-jdbc-3.0.1.jar 51 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-jdbc-2.1.1.jar 142 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-jdbc-utils-2.0.0.jar 11 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-jdbc-utils-impl-2.0.0.jar 26 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-jpa-commons-2.0.0.jar 25 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-json-web-token-2.1.1.jar 31 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-multiplexer-2.1.0.jar 60 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-reporting-service-api-2.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-reporting-service-api-2.1.0.jar 14 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-reporting-service-impl-2.1.0.jar 33 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-reporting-service-impl-2.2.1.jar 36 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-security-3.0.1.jar 39 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-security-3.0.2.jar 39 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-security-impl-4.0.2.jar 98 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-security-impl-4.0.3.jar 99 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-soa-governance-2.0.0.jar 19 blocks.
+a ./CTS_MF/plugins/framework/cts/cts-spring-transaction-manager-2.0.0.jar 10 blocks.
+a ./CTS_MF/plugins/framework/cts/maker-and-checker-api-1.0.0.jar 26 blocks.
+a ./CTS_MF/plugins/framework/ext
+a ./CTS_MF/plugins/framework/ext/aop
+a ./CTS_MF/plugins/framework/ext/aop/com.springsource.net.sf.cglib-2.1.3.jar 689 blocks.
+a ./CTS_MF/plugins/framework/ext/aop/com.springsource.org.aopalliance-1.0.0.jar 14 blocks.
+a ./CTS_MF/plugins/framework/ext/aries
+a ./CTS_MF/plugins/framework/ext/aries/com.ibm.ws.eba.jta.fep.jar 9 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/com.ibm.ws.eba.jta.fep.was7.jar 6 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/cts-aries-jpa-container-1.0.0.jar 232 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/cts-spring-transaction-manager-blue-print-jboss-1.0.0.jar 10 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/cts-spring-transaction-manager-jboss-eap-1.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.blueprint-1.1.0.jar 938 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.jndi-1.0.0.jar 232 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.jpa.api-1.0.0.jar 37 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.jpa.blueprint.aries-1.0.0.jar 45 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.jpa.container-1.0.0.jar 230 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.jpa.container.context-1.0.0.jar 91 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.proxy-1.0.0.jar 188 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.transaction.blueprint-1.0.0.jar 103 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.transaction.jdbc-1.0.0.jar 75 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.transaction.manager-1.0.0.jar 354 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.transaction.wrappers-1.0.0.jar 47 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.apache.aries.util-1.1.0.jar 233 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/org.osgi.enterprise-4.2.0.jar 744 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/persistence.xsd.rsrc 22 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/persistence_2_0.xsd.rsrc 34 blocks.
+a ./CTS_MF/plugins/framework/ext/aries/xbean-blueprint-3.7.jar 207 blocks.
+a ./CTS_MF/plugins/framework/ext/castor
+a ./CTS_MF/plugins/framework/ext/castor/com.cobiscorp.cobis.castor-core-1.3.1.jar 125 blocks.
+a ./CTS_MF/plugins/framework/ext/castor/com.cobiscorp.cobis.castor-xml-1.3.1.jar 1677 blocks.
+a ./CTS_MF/plugins/framework/ext/castor/com.springsource.org.castor.core-1.3.2.jar 121 blocks.
+a ./CTS_MF/plugins/framework/ext/castor/com.springsource.org.castor.xml-1.3.2.jar 1777 blocks.
+a ./CTS_MF/plugins/framework/ext/commons
+a ./CTS_MF/plugins/framework/ext/commons/com.springsource.org.apache.commons.beanutils-1.8.0.jar 484 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/com.springsource.org.apache.commons.io-1.4.0.jar 233 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/com.springsource.org.apache.commons.jxpath-1.2.0.jar 590 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/com.springsource.org.apache.commons.lang-2.5.0.jar 576 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/com.springsource.org.apache.commons.lang-2.6.0.jar 587 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/com.springsource.org.apache.commons.logging-1.1.1.jar 129 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/commons-collections-3.2.1.jar 1220 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/commons-dbcp-1.4.jar 331 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/commons-digester-2.1.jar 421 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/commons-fileupload-1.3.1.jar 149 blocks.
+a ./CTS_MF/plugins/framework/ext/commons/commons-pool-1.5.4.jar 202 blocks.
+a ./CTS_MF/plugins/framework/ext/felix
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.configadmin-1.6.0.jar 238 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.eventadmin-1.4.2.jar 197 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.http.bridge-2.2.2.jar 147 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.http.bridge-2.3.0-SNAPSHOT.jar 169 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.log-1.0.1.jar 50 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.metatype-1.0.6.jar 147 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.scr-1.6.2.jar 412 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.webconsole-4.2.0-all.jar 1363 blocks.
+a ./CTS_MF/plugins/framework/ext/felix/org.apache.felix.webconsole.plugins.event-1.1.4.jar 108 blocks.
+a ./CTS_MF/plugins/framework/ext/freemarker
+a ./CTS_MF/plugins/framework/ext/freemarker/freemarker-2.3.20.jar 2118 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-annotations-2.5.1.jar 90 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-annotations-2.8.5.jar 123 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-core-2.5.1.jar 468 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-core-2.7.8.jar 515 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-core-asl-1.9.13.jar 478 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-databind-2.5.1.jar 2330 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-databind-2.7.8.jar 2464 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-dataformat-cbor-2.7.8.jar 101 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-mapper-asl-1.9.13.jar 1616 blocks.
+a ./CTS_MF/plugins/framework/ext/jackson/jackson-xc-1.9.13.jar 58 blocks.
+a ./CTS_MF/plugins/framework/ext/jasper
+a ./CTS_MF/plugins/framework/ext/jasper/cobis-barbecue-bundle-1.5.jar 159 blocks.
+a ./CTS_MF/plugins/framework/ext/jasper/cobis-itext-bundle-3.0.0.jar 2086 blocks.
+a ./CTS_MF/plugins/framework/ext/jasper/cobis-jasper-all-bundle-6.0.1.jar 13464 blocks.
+a ./CTS_MF/plugins/framework/ext/jasper/cobis-jfreechart-bundle-2.0.0.jar 2910 blocks.
+a ./CTS_MF/plugins/framework/ext/jasper/com.springsource.org.jfree-1.0.12.jar 649 blocks.
+a ./CTS_MF/plugins/framework/ext/javassist
+a ./CTS_MF/plugins/framework/ext/javassist/com.springsource.javassist-3.12.1.GA.jar 1336 blocks.
+a ./CTS_MF/plugins/framework/ext/javassist/javassist-3.18.1-GA.jar 1465 blocks.
+a ./CTS_MF/plugins/framework/ext/jwt
+a ./CTS_MF/plugins/framework/ext/jwt/cobis-jjwt-bundle-2.0.0.jar 204 blocks.
+a ./CTS_MF/plugins/framework/ext/jwt/readme 1 blocks.
+a ./CTS_MF/plugins/framework/ext/log
+a ./CTS_MF/plugins/framework/ext/log/com.springsource.org.apache.log4j-1.2.16.jar 999 blocks.
+a ./CTS_MF/plugins/framework/ext/log/com.springsource.slf4j.api-1.6.1.jar 58 blocks.
+a ./CTS_MF/plugins/framework/ext/log/com.springsource.slf4j.juli-1.6.1.jar 22 blocks.
+a ./CTS_MF/plugins/framework/ext/log/com.springsource.slf4j.log4j-1.6.1.jar 24 blocks.
+a ./CTS_MF/plugins/framework/ext/log/com.springsource.slf4j.org.apache.commons.logging-1.6.1.jar 40 blocks.
+a ./CTS_MF/plugins/framework/ext/openjpa
+a ./CTS_MF/plugins/framework/ext/openjpa/openjpa-2.1.1.jar 8844 blocks.
+a ./CTS_MF/plugins/framework/ext/openjpa/openjpa-2.2.2.jar 9502 blocks.
+a ./CTS_MF/plugins/framework/ext/openjpa/org.apache.servicemix.bundles.asm-3.3.1_1.jar 493 blocks.
+a ./CTS_MF/plugins/framework/ext/openjpa/serp-1.13.1.jar 427 blocks.
+a ./CTS_MF/plugins/framework/ext/quartz
+a ./CTS_MF/plugins/framework/ext/quartz/cobis-c3p0-bundle-0.9.1.1.jar 1088 blocks.
+a ./CTS_MF/plugins/framework/ext/quartz/cobis-quartz-bundle-2.2.3.jar 1207 blocks.
+a ./CTS_MF/plugins/framework/ext/quartz/com.springsource.org.quartz-1.6.2.jar 925 blocks.
+a ./CTS_MF/plugins/framework/ext/quartz/commonj-1.1.1.jar 23 blocks.
+a ./CTS_MF/plugins/framework/ext/quartz/org.apache.servicemix.bundles.quartz-2.2.1_1.jar 1302 blocks.
+a ./CTS_MF/plugins/framework/ext/sharepoint
+a ./CTS_MF/plugins/framework/ext/sharepoint/commons-lang3-3.5.jar 987 blocks.
+a ./CTS_MF/plugins/framework/ext/sharepoint/httpclient-osgi-4.0.1.jar 1249 blocks.
+a ./CTS_MF/plugins/framework/ext/sharepoint/httpcore-osgi-4.0.1.jar 632 blocks.
+a ./CTS_MF/plugins/framework/ext/sharepoint/json-20160810.jar 113 blocks.
+a ./CTS_MF/plugins/framework/ext/sharepoint/org.springframework.web-3.0.5.RELEASE.jar 841 blocks.
+a ./CTS_MF/plugins/framework/ext/sharepoint/org.springframework.xml-2.0.0.RELEASE.jar 194 blocks.
+a ./CTS_MF/plugins/framework/ext/spec
+a ./CTS_MF/plugins/framework/ext/spec/geronimo-jpa_2.0_spec-1.1.jar 269 blocks.
+a ./CTS_MF/plugins/framework/ext/spring
+a ./CTS_MF/plugins/framework/ext/spring/com.springsource.org.aspectj.weaver-1.6.6.RELEASE.jar 3302 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.aop-3.0.5.RELEASE.jar 687 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.asm-3.0.5.RELEASE.jar 112 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.aspects-3.0.5.RELEASE.jar 78 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.beans-3.0.5.RELEASE.jar 1166 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.context-3.0.5.RELEASE.jar 1429 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.context.support-3.0.5.RELEASE.jar 216 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.core-3.0.5.RELEASE.jar 813 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.expression-3.0.5.RELEASE.jar 358 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.jdbc-3.0.5.RELEASE.jar 822 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.orm-3.0.5.RELEASE.jar 708 blocks.
+a ./CTS_MF/plugins/framework/ext/spring/org.springframework.transaction-3.0.5.RELEASE.jar 502 blocks.
+a ./CTS_MF/plugins/framework/ext/spring-data
+a ./CTS_MF/plugins/framework/ext/spring-data/spring-data-commons-core-1.1.0.RELEASE.jar 404 blocks.
+a ./CTS_MF/plugins/framework/ext/spring-data/spring-data-jpa-1.0.2.RELEASE.jar 220 blocks.
+a ./CTS_MF/plugins/framework/ext/spring-osgi
+a ./CTS_MF/plugins/framework/ext/spring-osgi/org.springframework.osgi.core-1.2.1.jar 760 blocks.
+a ./CTS_MF/plugins/framework/ext/spring-osgi/org.springframework.osgi.extender-1.2.1.jar 254 blocks.
+a ./CTS_MF/plugins/framework/ext/spring-osgi/org.springframework.osgi.io-1.2.1.jar 77 blocks.
+a ./CTS_MF/plugins/framework/ext/weblogic
+a ./CTS_MF/plugins/framework/ext/weblogic/bundle_wlthint3client-1.0.0.jar 15282 blocks.
+a ./CTS_MF/plugins/framework/ext/weblogic/cts-weblogic-blueprint-jta-1.0.0.jar 17 blocks.
+a ./CTS_MF/plugins/framework/jaxrs
+a ./CTS_MF/plugins/framework/jaxrs/asm-all-repackaged-2.2.0-b21.jar 661 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/cobis-jaxrs-provider-jackson-2.1.0.jar 22 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/cobis-osgi-jaxrs-connector-2.0.1.jar 60 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/cobis-osgi-jaxrs-connector-2.0.2.jar 65 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/gson-2.3.1.jar 442 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/guava-14.0.1.jar 4559 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/hk2-api-2.4.0-b11.jar 393 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/hk2-locator-2.4.0-b11.jar 359 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/hk2-utils-2.4.0-b11.jar 204 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/jackson-jaxrs-1.9.13.jar 41 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/javax.annotation-api-1.2.jar 59 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/javax.inject-2.2.0-b21.jar 16 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/javax.ws.rs-api-2.0.jar 245 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/jersey-client-2.5.1.jar 334 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/jersey-common-2.5.1.jar 1454 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/jersey-container-servlet-2.5.1.jar 36 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/jersey-container-servlet-core-2.5.1.jar 116 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/jersey-media-json-jackson-2.5.1.jar 13 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/jersey-server-2.5.1.jar 1739 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/osgi-resource-locator-1.0.1.jar 45 blocks.
+a ./CTS_MF/plugins/framework/jaxrs/validation-api-1.1.0.Final.jar 150 blocks.
+a ./CTS_MF/plugins/framework/jaxws
+a ./CTS_MF/plugins/framework/jaxws/cobis-osgi-jaxws-connector-2.0.0.jar 41 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-api-2.7.10.jar 2304 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-rt-bindings-soap-2.7.10.jar 426 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-rt-bindings-xml-2.7.10.jar 85 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-rt-core-2.7.10.jar 842 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-rt-databinding-jaxb-2.7.10.jar 266 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-rt-frontend-jaxws-2.7.10.jar 804 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-rt-frontend-simple-2.7.10.jar 142 blocks.
+a ./CTS_MF/plugins/framework/jaxws/cxf-rt-transports-http-2.7.10.jar 539 blocks.
+a ./CTS_MF/plugins/framework/jaxws/stax2-api-3.1.1.jar 381 blocks.
+a ./CTS_MF/plugins/framework/jaxws/woodstox-core-asl-4.2.0.jar 982 blocks.
+a ./CTS_MF/plugins/framework/jaxws/xmlschema-core-2.1.0.jar 350 blocks.
+a ./CTS_MF/plugins/framework/osgi
+a ./CTS_MF/plugins/framework/osgi/org.apache.aries.blueprint-0.3.2.jar 787 blocks.
+a ./CTS_MF/plugins/framework/osgi/org.apache.aries.proxy-0.3.1.jar 90 blocks.
+a ./CTS_MF/plugins/framework/osgi/org.apache.aries.util-0.3.1.jar 98 blocks.
+a ./CTS_MF/plugins/framework/osgi/org.apache.servicemix.bundles.asm-3.3.1_1.jar 493 blocks.
+a ./CTS_MF/plugins/framework/osgi/org.osgi.enterprise-4.2.0.jar 744 blocks.
+a ./CTS_MF/plugins/infraestructura
+a ./CTS_MF/plugins/infraestructura/infra.ctsrv.tareadelavistav_notification.customevents-1.0.0.jar 35 blocks.
+a ./CTS_MF/plugins/infraestructura/infra.ctsrv.tareadelavistav_notification.services-1.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/infraestructura/infra.ctsrv.tareadetallejobs.customevents-1.0.0.jar 12 blocks.
+a ./CTS_MF/plugins/infraestructura/infra.ctsrv.tareadetallejobs.services-1.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/infraestructura/infra.ctsrv.tareaejecucionjobs.customevents-1.0.0.jar 17 blocks.
+a ./CTS_MF/plugins/infraestructura/infra.ctsrv.tareaejecucionjobs.services-1.0.0.jar 13 blocks.
+a ./CTS_MF/plugins/infraestructura/infra.domains-1.0.0.jar 44 blocks.
+a ./CTS_MF/plugins/lombok-0.11.6.jar 3559 blocks.
+a ./CTS_MF/plugins/org.apache.felix.configadmin-1.2.4.jar 178 blocks.
+a ./CTS_MF/plugins/org.apache.felix.scr-1.4.0.jar 382 blocks.
+a ./CTS_MF/plugins/reentry-api-2.1.0.jar 36 blocks.
+a ./CTS_MF/plugins/reentry-api-2.1.1.jar 36 blocks.
+a ./CTS_MF/plugins/reentry-base-impl-2.3.0.jar 31 blocks.
+a ./CTS_MF/plugins/reentry-immediate-impl-2.0.0.jar 16 blocks.
+a ./CTS_MF/plugins/reentry-monitor-impl-2.1.0.jar 17 blocks.
+a ./CTS_MF/plugins/reentry-monitor-impl-2.1.1.jar 17 blocks.
+a ./CTS_MF/plugins/reentry-procedures-impl-2.0.0.jar 25 blocks.
+a ./CTS_MF/plugins/reentry-procedures-persistence-impl-2.0.0.jar 47 blocks.
+a ./CTS_MF/plugins/reentry-procedures-persistence-impl-2.0.2.jar 47 blocks.
+a ./CTS_MF/plugins/reentry-services-impl-2.0.0.jar 21 blocks.
+a ./CTS_MF/plugins/reentry-services-persister-impl-2.2.0.jar 29 blocks.
+a ./CTS_MF/plugins/validatepassword
+a ./CTS_MF/plugins/validatepassword/cobis-validate-password-api-2.0.0.jar 10 blocks.
+a ./CTS_MF/plugins/validatepassword/cobis-validate-password-impl-2.0.0.jar 23 blocks.
+a ./CTS_MF/revision.txt 1 blocks.
+a ./CTS_MF/security
+a ./CTS_MF/security/cobisKeystore.jks 3 blocks.
+a ./CTS_MF/security/cobisTruststore.jks 5 blocks.
+a ./CTS_MF/services-as
+a ./CTS_MF/services-as/alert
+a ./CTS_MF/services-as/alert/alert-manager.xml 1 blocks.
+a ./CTS_MF/services-as/authentication
+a ./CTS_MF/services-as/authentication/authentication-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/authentication/cobis-authentication-manager-config.xml 4 blocks.
+a ./CTS_MF/services-as/authentication/cobis-authentication-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/authentication/cobis-ldap-authentication-service-config.xml 3 blocks.
+a ./CTS_MF/services-as/authentication/cobisbv-authentication-service-config.xml 4 blocks.
+a ./CTS_MF/services-as/authentication/ldap.algncon 1 blocks.
+a ./CTS_MF/services-as/authorization
+a ./CTS_MF/services-as/authorization/authorization-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/authorization/bv-services-authorization-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/authorization/cobis-authorization-manager-config.xml 7 blocks.
+a ./CTS_MF/services-as/authorization/cobis-authorization-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/authorization/cobisbv-authorization-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/authorization/prk.dat 5 blocks.
+a ./CTS_MF/services-as/authorization/services-authorization-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/authorized-roles
+a ./CTS_MF/services-as/authorized-roles/authorized-roles-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/branch
+a ./CTS_MF/services-as/branch/branch-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/cache
+a ./CTS_MF/services-as/cache/cts-cache.xml 20 blocks.
+a ./CTS_MF/services-as/cache/ehcache.xsd 26 blocks.
+a ./CTS_MF/services-as/catalog
+a ./CTS_MF/services-as/catalog/catalogo-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/cen
+a ./CTS_MF/services-as/cen/cen-service-config-ws.xml 1 blocks.
+a ./CTS_MF/services-as/cen/cen-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/console
+a ./CTS_MF/services-as/console/cts-console-client-config.xml 4 blocks.
+a ./CTS_MF/services-as/converter
+a ./CTS_MF/services-as/converter/cts-converter-config.xml 1 blocks.
+a ./CTS_MF/services-as/ctssignerverifier
+a ./CTS_MF/services-as/ctssignerverifier/cts-signer-verifier-config.xml 1 blocks.
+a ./CTS_MF/services-as/ctstransformation
+a ./CTS_MF/services-as/ctstransformation/configuracion-transaccion.xsd 9 blocks.
+a ./CTS_MF/services-as/ctstransformation/csp-ctstransformation-service-config.xml 3 blocks.
+a ./CTS_MF/services-as/ctstransformation/csp-ctstransformation-service-config.xsd 7 blocks.
+a ./CTS_MF/services-as/ctstransformation/cts-authentication.xml 7 blocks.
+a ./CTS_MF/services-as/ctstransformation/cts-authorization.xml 5 blocks.
+a ./CTS_MF/services-as/ctstransformation/cts-routing.xml 2 blocks.
+a ./CTS_MF/services-as/ctstransformation/cts-session.xml 2 blocks.
+a ./CTS_MF/services-as/digital-signature
+a ./CTS_MF/services-as/digital-signature/cer.algncon 1 blocks.
+a ./CTS_MF/services-as/digital-signature/digital-signature-config.xml 1 blocks.
+a ./CTS_MF/services-as/digital-signature/keystore.algncon 1 blocks.
+a ./CTS_MF/services-as/digital-signature/truststore.algncon 1 blocks.
+a ./CTS_MF/services-as/dynamic
+a ./CTS_MF/services-as/dynamic/dynamic-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/envelop
+a ./CTS_MF/services-as/envelop/envelop-config.xml 4 blocks.
+a ./CTS_MF/services-as/error
+a ./CTS_MF/services-as/error/error-config-language.xml 2 blocks.
+a ./CTS_MF/services-as/error/error-manager-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/error/errorsMessage-en-config.xml 30 blocks.
+a ./CTS_MF/services-as/error/errorsMessage-es-config.xml 32 blocks.
+a ./CTS_MF/services-as/error/errorsMessage-fr-config.xml 27 blocks.
+a ./CTS_MF/services-as/esb
+a ./CTS_MF/services-as/esb/envelop-node-config.xml 3 blocks.
+a ./CTS_MF/services-as/esb/routing-config.xml 5 blocks.
+a ./CTS_MF/services-as/etoken
+a ./CTS_MF/services-as/etoken/cobis-etoken-manager-config.xml 2 blocks.
+a ./CTS_MF/services-as/etoken/cobisbv-etoken-correlation-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/events
+a ./CTS_MF/services-as/events/event-manager-config.xml 1 blocks.
+a ./CTS_MF/services-as/framework
+a ./CTS_MF/services-as/framework/cts-core.xml 2 blocks.
+a ./CTS_MF/services-as/framework/cts-core.xsd 3 blocks.
+a ./CTS_MF/services-as/grpc-server
+a ./CTS_MF/services-as/grpc-server/grpc-server-config.xml 1 blocks.
+a ./CTS_MF/services-as/http-proxy
+a ./CTS_MF/services-as/http-proxy/cobis-http-filter-config.xml 1 blocks.
+a ./CTS_MF/services-as/identity
+a ./CTS_MF/services-as/identity/identity-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/integration
+a ./CTS_MF/services-as/integration/integration-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/interceptors
+a ./CTS_MF/services-as/interceptors/interceptors-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/jersey-container
+a ./CTS_MF/services-as/jersey-container/cobis-container-jersey-config.xml 1 blocks.
+a ./CTS_MF/services-as/jwt
+a ./CTS_MF/services-as/jwt/jwt-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/logger
+a ./CTS_MF/services-as/logger/transactional-log-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/mqseries
+a ./CTS_MF/services-as/mqseries/mqseries-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/multiplexer
+a ./CTS_MF/services-as/multiplexer/dynamic-multiplexer-rule-evaluator-config.xml 2 blocks.
+a ./CTS_MF/services-as/multiplexer/multiplexer-service-config.xml 3 blocks.
+a ./CTS_MF/services-as/multiplexer/simple-multiplexer-rule-evaluator-config.xml 1 blocks.
+a ./CTS_MF/services-as/offline
+a ./CTS_MF/services-as/offline/cts-offline-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator
+a ./CTS_MF/services-as/orchestrator/authorized-service-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/business-service-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/dynamic-orchestrator-config.xml 2 blocks.
+a ./CTS_MF/services-as/orchestrator/service-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/sp-branch-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/sp-csp-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/sp-interceptors-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/sp-mc-interceptors-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/sp-orchestrator-15-config.xml 1 blocks.
+a ./CTS_MF/services-as/orchestrator/sp-servlet-orchestrator-config.xml 1 blocks.
+a ./CTS_MF/services-as/reentry
+a ./CTS_MF/services-as/reentry/reentry-immediate-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/response
+a ./CTS_MF/services-as/response/response-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/routing
+a ./CTS_MF/services-as/routing/cts-routing-config.xml 1 blocks.
+a ./CTS_MF/services-as/scheduler
+a ./CTS_MF/services-as/scheduler/scheduler-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/servexecutor
+a ./CTS_MF/services-as/servexecutor/business-service-executor-config.xml 1 blocks.
+a ./CTS_MF/services-as/servexecutor/mapping
+a ./CTS_MF/services-as/servexecutor/mapping/CTSProcedure.xsd 14 blocks.
+a ./CTS_MF/services-as/servexecutor/mapping/testService.xml 5 blocks.
+a ./CTS_MF/services-as/servexecutor/service-executor-config.xml 1 blocks.
+a ./CTS_MF/services-as/servexecutor/service-executor-ws-config.xml 1 blocks.
+a ./CTS_MF/services-as/servexecutor/services
+a ./CTS_MF/services-as/servexecutor/services/admin-services.xml 25 blocks.
+a ./CTS_MF/services-as/servexecutor/services/cen-services.xml 4 blocks.
+a ./CTS_MF/services-as/servexecutor/services/services.xml 1 blocks.
+a ./CTS_MF/services-as/servexecutor/services/services.xsd 3 blocks.
+a ./CTS_MF/services-as/servexecutor/services/test-services.xml 1 blocks.
+a ./CTS_MF/services-as/service-integration
+a ./CTS_MF/services-as/service-integration/service-integration-service-config.xml 5 blocks.
+a ./CTS_MF/services-as/services-utils
+a ./CTS_MF/services-as/services-utils/cobis-services-utils-manager-config.xml 1 blocks.
+a ./CTS_MF/services-as/session
+a ./CTS_MF/services-as/session/anonymous.algncon 1 blocks.
+a ./CTS_MF/services-as/session/cobis-session-manager-config.xml 3 blocks.
+a ./CTS_MF/services-as/session/cobisbv-session-manager-config.xml 2 blocks.
+a ./CTS_MF/services-as/session/session-anonymous-user-config.xml 2 blocks.
+a ./CTS_MF/services-as/session/session-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/session/session-manager-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/socketssn
+a ./CTS_MF/services-as/socketssn/socket-ssn-config.xml 3 blocks.
+a ./CTS_MF/services-as/specialSP
+a ./CTS_MF/services-as/specialSP/cobis-special-sp-config.xml 2 blocks.
+a ./CTS_MF/services-as/spexecutor
+a ./CTS_MF/services-as/spexecutor/spexecutor-service-config.xml 3 blocks.
+a ./CTS_MF/services-as/spexecutor/spexecutor-service-config.xmlBackup1803 3 blocks.
+a ./CTS_MF/services-as/spexecutor/spexecutor-service-kernel-config.xml 2 blocks.
+a ./CTS_MF/services-as/spexecutor/spexecutor-service-light-config.xml 2 blocks.
+a ./CTS_MF/services-as/spexecutor/spexecutor-service-object-config.xml 2 blocks.
+a ./CTS_MF/services-as/spexecutor/target-service-rules.xml 1 blocks.
+a ./CTS_MF/services-as/statistics
+a ./CTS_MF/services-as/statistics/registry-statistics-config.xml 1 blocks.
+a ./CTS_MF/services-as/statistics/statistics-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/statistics-service
+a ./CTS_MF/services-as/statistics-service/statistics-service-config.xml 3 blocks.
+a ./CTS_MF/services-as/submit-rpc
+a ./CTS_MF/services-as/submit-rpc/submit-rpc-configuration.xml 1 blocks.
+a ./CTS_MF/services-as/time-tracker
+a ./CTS_MF/services-as/time-tracker/time-tracker-service-config.xml 7 blocks.
+a ./CTS_MF/services-as/tranmsg
+a ./CTS_MF/services-as/tranmsg/transact-msg-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/trlogger
+a ./CTS_MF/services-as/trlogger/tr-logger-config.xml 1 blocks.
+a ./CTS_MF/services-as/trlogger/trlogger-req-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/trlogger/trlogger-resp-handler-bean-config.xml 1 blocks.
+a ./CTS_MF/services-as/utils
+a ./CTS_MF/services-as/utils/cobis-ssn-unique-config.xml 1 blocks.
+a ./CTS_MF/services-as/utils/cobisbv-ssn-unique-config.xml 1 blocks.
+a ./CTS_MF/services-as/utils/cts-signature-config.xml 1 blocks.
+a ./CTS_MF/services-as/utils/multi-backEnd-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/utils/sequential-table-config.xml 3 blocks.
+a ./CTS_MF/services-as/utils/srv-manager-service-config.xml 2 blocks.
+a ./CTS_MF/services-as/utils/srv-param-config.xml 2 blocks.
+a ./CTS_MF/services-as/utils/ssn-unique-config.xml 2 blocks.
+a ./CTS_MF/services-as/utils/timeout-service-config.xml 1 blocks.
+a ./CTS_MF/services-as/webrequest
+a ./CTS_MF/services-as/webrequest/wch-config.xml 1 blocks.
+a ./CTS_MF/services-as/webrequest/wrh-bean-config.xml 1 blocks.
+a ./CTS_MF/version.txt 1 blocks.
+a ./CheckAmb (excluded)
+a ./PERFORMANCE
+a ./PERFORMANCE/jboss
+a ./PERFORMANCE/jboss/create-max-bean-pools.bat 1 blocks.
+a ./PERFORMANCE/jboss/create-max-bean-pools.cli 2 blocks.
+a ./PERFORMANCE/jboss/create-max-bean-pools.properties 1 blocks.
+a ./PERFORMANCE/jboss/create-max-bean-pools.sh 1 blocks.
+a ./PERFORMANCE/jboss/create-property-max-session.bat 1 blocks.
+a ./PERFORMANCE/jboss/create-property-max-session.cli 1 blocks.
+a ./PERFORMANCE/jboss/create-property-max-session.properties 1 blocks.
+a ./PERFORMANCE/jboss/create-property-max-session.sh 1 blocks.
+a ./PERFORMANCE/weblogic
+a ./PERFORMANCE/weblogic/create-work-manager.properties 2 blocks.
+a ./PERFORMANCE/weblogic/create-work-manager.py 10 blocks.
+a ./PERFORMANCE/weblogic/run-create-work-manager.bat 1 blocks.
+a ./PERFORMANCE/weblogic/run-create-work-manager.sh 1 blocks.
+a ./backups_cobissrv4_CTS_1 (excluded)
+a ./contents.yml 2 blocks.
+a ./cts-operations.yml 4 blocks.
+a ./excluirbackups.txt 1 blocks.
+a ./lib
+a ./lib/activeMQ
+a ./lib/activeMQ/activemq-all-5.14.2.jar 31655 blocks.
+a ./lib/activeMQ/activemq-client-5.14.2.jar 2785 blocks.
+a ./lib/activeMQ/activemq-rar.rar 18134 blocks.
+a ./lib/com.bea.core.weblogic.commons.logging.jar 12 blocks.
+a ./lib/commons-logging-1.2.jar 130 blocks.
+a ./lib/hawtbuf-1.11.jar 98 blocks.
+a ./lib/http-session-lib
+a ./lib/http-session-lib/freemarker-2.3.20.jar 2118 blocks.
+a ./lib/jackson-dataformat-xml-2.4.3.jar 178 blocks.
+a ./lib/omq
+a ./lib/omq/imqjmsra.rar 7327 blocks.
+a ./lib/quartz
+a ./lib/quartz/c3p0-0.9.1.1.jar 1189 blocks.
+a ./lib/quartz/quartz-2.2.3.jar 1291 blocks.
+a ./lib/quartz/quartz-jobs-2.2.3.jar 67 blocks.
+a ./lib/sqljdbc12_2
+a ./lib/sqljdbc12_2/mssql-jdbc-12.2.0.jre8.jar 2814 blocks.
+a ./lib/sqljdbc82
+a ./lib/sqljdbc82/mssql-jdbc-8.2.2.jre8.jar 2476 blocks.
+a ./lib/sqlserver
+a ./lib/sqlserver/mssql-jdbc-12.4.1.jre8.jar 2810 blocks.
+a ./lib/sqlserver2005
+a ./lib/sqlserver2005/sqljdbc1.2.jar 1140 blocks.
+a ./lib/sqlserver2012
+a ./lib/sqlserver2012/sqljdbc4.jar 1142 blocks.
+a ./lib/sybase
+a ./lib/sybase/jconn2.jar 1836 blocks.
+a ./lib/sybase/jconn3.jar 1096 blocks.
+a ./lib/sybase/jconn4.jar 1156 blocks.
+a ./logs (excluded)
+a ./nativelib
+a ./nativelib/CobisCrypt.so 32 blocks.
+a ./nativelib/cobis-crypt-native-1.0.0.jar 6 blocks.
+a ./scripts
+a ./scripts/appserver
+a ./scripts/appserver/was
+a ./scripts/appserver/was/libs
+a ./scripts/appserver/was/libs/ApplicationManager.py 8 blocks.
+a ./scripts/appserver/was/libs/StringUtils.py 2 blocks.
+a ./sybase (excluded)
+a ./temp (excluded)
+a ./versionManager.txt 1 blocks.
+a ./versionPack.txt 1 blocks.
+Comprimiendo tar
+gzip: /cobishome/backups_cobissrv4_CTS_1//cobishome_cobissrv4_.tar.gz already exists; do you wish to overwrite (y or n)? 
